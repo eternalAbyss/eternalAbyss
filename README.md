@@ -1,18 +1,3 @@
-<!--
-**eternalAbyss/eternalAbyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Computer Science Engineer | Data Scientist | Machine Learning Enthusiast
 
 I am a final year Computer Science Engineering student looking forward to learn much new technologies and skills. So far I have amassed skills in Computer Programming, Web Development (Full -stack), Data Science and Machine Learning (Still learning).
@@ -34,28 +19,28 @@ Apart from that I have exceptional coding skills, the required skills of a Compu
 
 ---
 
-# Courses and Certifications
+## Courses and Certifications
 
-## Data Science with python
+### Data Science with python
 
 * Issued by :- Simplilearn
 * Credential ID :- 13379370
 
-## C++ Fundamentals including C++ 17
+### C++ Fundamentals including C++ 17
 
 * Issued by :- Pluralisght
 * Credential ID :- 4127
 
-## Intro to Machine Learning
+### Intro to Machine Learning
 
 * Issued by :- Kaggle
 
-## Mathematics for Machine Learning: Linear Algebra
+### Mathematics for Machine Learning: Linear Algebra
 
 * Issued by :- Coursera
 * Credential ID :- XF33XADCRKPE
 
-## Front-End Web Development with React
+### Front-End Web Development with React
 
 * Issued by :- Coursera
 * Credential ID :- RLZAATCA82ST
