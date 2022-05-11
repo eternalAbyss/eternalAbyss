@@ -19,6 +19,11 @@ Apart from that I have exceptional coding skills, the required skills of a Compu
 
 ---
 
+## My Dev Card 
+<a href="https://app.daily.dev/eternalAbyss"><img src="https://api.daily.dev/devcards/320b54469cd2482d9f4bfe8758cc6fc3.png?r=l0d" width="400" alt="Utkarsh Singh's Dev Card"/></a>
+
+---
+
 ## Courses and Certifications
 
 ### Data Science with python
