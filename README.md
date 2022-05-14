@@ -1,4 +1,4 @@
-# Data Engineer | Computer Science Engineer | Data Scientist Scholar
+# Data Engineer | Computer Science Engineer | Data Science and Statistics Scholar
 
 I am a Data Engineer looking forward to learn much new technologies and skills. So far I have amassed skills in Computer Programming, Web Development (Full -stack), Data Engineering, Data Science and Machine Learning (Still learning).
 
