@@ -20,9 +20,8 @@ Apart from that I have exceptional coding skills, the required skills of a Compu
 ---
 
 ## My Dev Card 
-<p>
-<a href="https://app.daily.dev/eternalAbyss"><img src="https://api.daily.dev/devcards/320b54469cd2482d9f4bfe8758cc6fc3.png?r=m8n" width="200" alt="Utkarsh Singh's Dev Card"/></a>
-
+<p float="left">
+<a href="https://app.daily.dev/eternalAbyss"><img src="https://api.daily.dev/devcards/320b54469cd2482d9f4bfe8758cc6fc3.png?r=m8n" width="300" alt="Utkarsh Singh's Dev Card"/></a>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/codingcerebrum?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
 </p>
 ## Courses and Certifications
