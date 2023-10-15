@@ -24,6 +24,8 @@ Apart from that I have exceptional coding skills, the required skills of a Compu
 
 ---
 
+
+<a href="https://leetcode.com/codingcerebrum/"><img src="https://leetcode.com/codingcerebrum/" alt="Utkarsh Singh's Leetcode Card"/></a>
 ## Courses and Certifications
 
 ### Data Science with python
