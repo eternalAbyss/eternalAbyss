@@ -25,7 +25,7 @@ Apart from that I have exceptional coding skills, the required skills of a Compu
 ---
 
 
-[LeetCode Stats](https://leetcard.jacoblin.cool/codingcerebrum?theme=dark&font=Work%20Sans&ext=heatmap)"
+![LeetCode Stats](https://leetcard.jacoblin.cool/codingcerebrum?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
 ## Courses and Certifications
 
 ### Data Science with python
