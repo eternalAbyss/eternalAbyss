@@ -19,10 +19,15 @@ Apart from that I have exceptional coding skills, the required skills of a Compu
 
 ---
 
-<div>
+<div align="center">
     <img src="https://api.daily.dev/devcards/320b54469cd2482d9f4bfe8758cc6fc3.png?r=m8n" height=320 />  
-    <img src="https://leetcard.jacoblin.cool/codingcerebrum?theme=dark&font=Source%20Code%20Pro&ext=heatmap" align="right"/> 
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://leetcard.jacoblin.cool/codingcerebrum?theme=dark&font=Source%20Code%20Pro&ext=heatmap"/> 
 </div>
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## Courses and Certifications
 
