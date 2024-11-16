@@ -20,7 +20,7 @@ Machine Learning captivates me with its potential to emulate human learning proc
 - **Exceptional Coding Skills:** My coding abilities are not just foundational but also creative, allowing me to build and innovate effectively.
 - **Comprehensive Skill Set:** My skills go beyond the typical requisites of a Computer Science Engineer, encompassing a wide range of technologies and methodologies.
 
-## Professional Credentials
+## Professional Accreditations
 
 ### Courses and Certifications
 
